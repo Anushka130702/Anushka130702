@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anushka130702
-- 👀 I’m interested in Data Science(Particularlly ML),Coding(C/C++,Python,MATLAB)and learning Electronics oriented technologies.
+- 👀 I’m interested in Data Science(Particularly ML),Coding(C/C++,Python,MATLAB)and learning Electronics oriented technologies.
 - 🌱 I’m currently pursuing B.Tech in Electronics and Communication and B.Sc. in Programming and Data Science simultaneously. 
 - 💞️ I’m looking to learn in depth and work on projects in the above particular fields.
 - 📫 How to reach me: krishnaanushka137@gmail.com
